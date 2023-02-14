@@ -13,7 +13,7 @@ setup(
     package_dir={'': 'src'},
     url='https://github.com/grupodyd/spuiis',
     keywords='spuiis',
-    python_requires=">=3.6",
+    python_requires=">=3.7",
     install_requires=[
           'requests',
       ],
