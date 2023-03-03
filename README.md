@@ -4,8 +4,4 @@
 # spuiis
 Módulo para interactuar con el Sistema Público Único Integrado de Información en Salud de Colombia
 
-.. image:: https://img.shields.io/pypi/v/stevedore.svg
-    :target: https://pypi.org/project/stevedore/
-    :alt: Latest Version
-
 --- PROYECTO EN DESARROLLO ---
